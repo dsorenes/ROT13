@@ -40,5 +40,3 @@ function rot13 (s) {
 
     return s;
 }
-
-console.log(rot13(s));
