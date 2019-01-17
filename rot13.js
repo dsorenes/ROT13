@@ -1,5 +1,3 @@
-s = "GUR DHVPX OEBJA SBK WHZCF BIRE GUR YNML QBT";
-
 const word = document.querySelector('#word');
 const output = document.querySelector('#output');
 const output_rot13 = document.querySelector('#output-rot13');
